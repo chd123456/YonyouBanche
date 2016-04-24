@@ -6,8 +6,11 @@
 target 'YonyouBanche' do
     #swift
 pod 'Alamofire', '~> 3.3.1'
-#o-c
+pod 'SnapKit', '~> 0.20.0'
+pod 'SwiftyJSON', '~> 2.3.2'
+    #o-c
 pod 'AMap2DMap', '~> 3.3.0'
+pod 'AMapSearch', '~> 3.3.0'
 end
 
 target 'YonyouBancheTests' do

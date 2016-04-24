@@ -1,0 +1,60 @@
+
+/* Class = "UILabel"; text = "Upload File"; ObjectID = "7eN-iv-uHo"; */
+"7eN-iv-uHo.text" = "Upload File";
+
+/* Class = "UILabel"; text = "DELETE"; ObjectID = "8Fc-Wz-duw"; */
+"8Fc-Wz-duw.text" = "DELETE";
+
+/* Class = "UITableViewSection"; headerTitle = "DATA"; ObjectID = "8OP-bk-vCq"; */
+"8OP-bk-vCq.headerTitle" = "DATA";
+
+/* Class = "UITableViewSection"; headerTitle = "UPLOAD"; ObjectID = "NOk-Yi-Ab3"; */
+"NOk-Yi-Ab3.headerTitle" = "UPLOAD";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "O69-9p-CkJ"; */
+"O69-9p-CkJ.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "GET"; ObjectID = "QO3-7M-Dxh"; */
+"QO3-7M-Dxh.text" = "GET";
+
+/* Class = "UILabel"; text = "POST"; ObjectID = "SNi-Kb-VqE"; */
+"SNi-Kb-VqE.text" = "POST";
+
+/* Class = "UILabel"; text = "\"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\""; ObjectID = "UZU-GP-twn"; */
+"UZU-GP-twn.text" = "\"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\"";
+
+/* Class = "UITableViewController"; title = "Master"; ObjectID = "WVZ-Cb-Krn"; */
+"WVZ-Cb-Krn.title" = "Master";
+
+/* Class = "UITabBarItem"; title = "Master"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Master";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Map";
+
+/* Class = "UILabel"; text = "Download Resume Data"; ObjectID = "gpV-AF-U4E"; */
+"gpV-AF-U4E.text" = "Download Resume Data";
+
+/* Class = "UILabel"; text = "Download Request"; ObjectID = "hhb-GD-Ca7"; */
+"hhb-GD-Ca7.text" = "Download Request";
+
+/* Class = "UILabel"; text = "Upload Data"; ObjectID = "hmR-F3-f6M"; */
+"hmR-F3-f6M.text" = "Upload Data";
+
+/* Class = "UILabel"; text = "PUT"; ObjectID = "ia2-NR-mwv"; */
+"ia2-NR-mwv.text" = "PUT";
+
+/* Class = "UILabel"; text = "Accept"; ObjectID = "ihA-XT-QUC"; */
+"ihA-XT-QUC.text" = "Accept";
+
+/* Class = "UILabel"; text = "Upload Stream"; ObjectID = "jxN-7w-6nD"; */
+"jxN-7w-6nD.text" = "Upload Stream";
+
+/* Class = "UINavigationController"; title = "Master"; ObjectID = "ldD-nx-Yqy"; */
+"ldD-nx-Yqy.title" = "Master";
+
+/* Class = "UITableViewController"; title = "Detail"; ObjectID = "nMf-ty-vyR"; */
+"nMf-ty-vyR.title" = "Detail";
+
+/* Class = "UITableViewSection"; headerTitle = "Download"; ObjectID = "sPU-u4-Ugc"; */
+"sPU-u4-Ugc.headerTitle" = "Download";
